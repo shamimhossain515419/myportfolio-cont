@@ -1,0 +1,38 @@
+[
+     {
+          "_id":1,
+          "category":"View all"
+     },
+     {
+          "_id":2,
+          "category":"Education"
+     },
+     {
+          "_id":3,
+          "category":"E-commerce"
+     },
+     {
+          "_id":4,
+          "category":"Hotel"
+     },
+     {
+          "_id":5,
+          "category":"Business"
+     },
+     {
+          "_id":6,
+          "category":"Blog/Magazine"
+     },
+     {
+          "_id":7,
+          "category":"Food"
+     },
+     {
+          "_id":8,
+          "category":"Service"
+     },
+     {
+          "_id":9,
+          "category":"Other"
+     }
+]

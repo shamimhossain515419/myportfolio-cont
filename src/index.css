@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.boxshadow {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.buttonBox {
+  padding: 10px 15px;
+  border-radius: 10px;
+  transition: .5s;
+
+}
+
+.buttonBox:hover {
+  background-color: #582ad8;
+  color: white;
+}
